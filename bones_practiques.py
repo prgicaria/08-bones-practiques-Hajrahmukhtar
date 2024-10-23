@@ -5,6 +5,6 @@ divisor = int(input("Escriu el divisor (nombre enter)"))
 quocient = dividend // divisor
 residu = dividend % divisor
 
-print(f"La divisió és: {dividend}/{divisor}")
-print(f"Quocient: {quocient}")
-print(f"Residu: {residu}")
+print(f"divisió: {dividend}/{divisor}")
+print(f"quocient: {quocient}")
+print(f"residu: {residu}")
